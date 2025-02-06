@@ -20,14 +20,6 @@
 🔭 I’m currently developing a Full Stack Website from scratch<br>👯 I’m looking to collaborate on Open Source Web Dev Projects<br>🌱 I’m currently learning AngularJs<br>🤔 I am seeking a mentor to provide guidance and support in shaping my career.
 
 
-## 🌐 Socials:
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranava-upadhyaya-06854b295/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranava.__)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranava___)
-<!--
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranava.uv@gmail.com)>
-<!-->
 
 # 💻 Tech Stack:
 Languages:<br>
@@ -80,6 +72,15 @@ Version Control: <br>
 
 Analytics: <br>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🌐 Socials:
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranava-upadhyaya-06854b295/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranava.__)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranava___)
+<!--
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranava.uv@gmail.com)>
+<!-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pranava420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
