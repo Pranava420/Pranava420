@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## <h1 align="center">Hi 👋, I'm Pranava</h1>
+## <h3 align="center">A passionate Developer from India</h3>
 <!--
 **Pranava420/Pranava420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
