@@ -85,7 +85,7 @@ Analytics: <br>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranava.uv@gmail.com)>
 <!-->
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pranava420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pranava420&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranava420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -93,4 +93,4 @@ Analytics: <br>
 ---
 [![](https://visitcount.itsvg.in/api?id=Pranava420&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) -->
