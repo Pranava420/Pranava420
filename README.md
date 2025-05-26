@@ -17,7 +17,7 @@
 > <!-->
 
 # 💫 About Me:
-<!--🔭 I’m currently developing a Full Stack Website from scratch--><br>👯 I’m looking to collaborate on Open Source Web Dev Projects<br><!--🌱 I’m currently learning AngularJs--><br>🤔 I am seeking a mentor to provide guidance and support in shaping my career.
+<!--🔭 I’m currently developing a Full Stack Website from scratch-->👯 I’m looking to collaborate on Open Source Web Dev Projects<br><!--🌱 I’m currently learning AngularJs-->🤔 I am seeking a mentor to provide guidance and support in shaping my career.
 
 
 
